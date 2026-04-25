@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="examples.png" alt="Detoxify Logo" width="100%">
-  
+ 
   # Detoxify
   
   **Toxic Comment Classification with PyTorch Lightning and Transformers**
@@ -88,6 +87,13 @@ python run_prediction.py --input test_set.txt --model_name original --save_to re
 ```
 
 ---
+
+
+<div align="center">
+  <img src="examples.png" alt="Detoxify Logo" width="100%">
+</div>
+
+---  
 
 ## Data Flow Diagram
 
