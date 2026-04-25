@@ -21,9 +21,8 @@
 
 ## Overview
 
-**Detoxify** provides highly accurate, pre-trained models to detect toxic comments across multiple challenges. Built by [Unitary](https://www.unitary.ai/) to combat harmful content online, it leverages the power of state-of-the-art transformer models (BERT, RoBERTa, ALBERT, XLM-R).
+***Detoxify** is an open-source library that brings the power of advanced transformer architectures (BERT, RoBERTa, ALBERT, XLM-R) directly to your fingertips. By instantly categorizing text into precise toxicity levels—such as insults, threats, and severe hate—it empowers developers and researchers to deploy robust moderation filters and study algorithmic fairness with unparalleled ease.
 
-Whether you are building a moderation tool or conducting research on unintended bias, Detoxify offers an out-of-the-box solution that is easy to deploy and use.
 
 ---
 
@@ -285,6 +284,3 @@ If you use `detoxify` in your research, please cite our repository:
 }
 ```
 
-<div align="center">
-  <i>Built with love by the <a href="https://www.unitary.ai/">Unitary Team</a></i>
-</div>
